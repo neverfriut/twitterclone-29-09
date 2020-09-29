@@ -1,0 +1,22 @@
+[
+    {
+        "userId": "5f7255a24b5f9",
+        "userEmail": "thom@thom.dk",
+        "userName": "thomas",
+        "userPassword": "$2y$10$PdddVK0qFtD6Uk.kIo4yLO7AkdYgZCWR9xKljUvNnzmM8ntxnKsHC",
+        "Tweets": [
+            {
+                "TweetId": "5f7255b188de3",
+                "userEmail": "thom@thom.dk",
+                "tweetMessage": "LOL",
+                "tweetDate": "28-09-2020-23-29"
+            },
+            {
+                "TweetId": "5f7255b845410",
+                "userEmail": "thom@thom.dk",
+                "tweetMessage": "Hello2",
+                "tweetDate": "28-09-2020-23-29"
+            }
+        ]
+    }
+]
